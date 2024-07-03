@@ -22,7 +22,7 @@ const Fake = (props) => {
   setInterval(()=>{
       time++;
       console.log(time)
-  },4000)
+  },5000)
 
   return (
    <>
